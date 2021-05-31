@@ -1,0 +1,20 @@
+Utilisateur technique
+---------------------
+
+Pour développer ce projet, il suffit d'installer la version Étudiante ou Personnel de Unity, qui est retrouvée au lien suivant : 
+https://store.unity.com/#plans-individual. Lorsque Unity est installé, il faut ouvrir le Unity Hub, cliquer sur l'onglet Installs,
+ensuite sur ADD, et puis sur le lien "download archive". Sur cette page, il faut trouver la version de Unity 2019.3.14f1. Les versions
+récentes fonctionnent probablement aussi mais ce projet a été développé avec la version 2019.3.14f1 donc la compatibilité est plus
+élevé.
+
+Lorsque cette version est installée, il faut cliquer sur l'onglet Projects du Unity Hub et puis cliquer sur ADD. Ensuite, tout simplement
+trouver le dossier du projet a l'aide de l'explorateur de fichier et puis voilà, vous avez maintenant accès total au développement du
+projet.
+
+Utilisateur non technique
+-------------------------
+
+Pour utiliser l'application, l'installation de Unity n'est pas nécessaire, il faut tout simplement un exécutable et les fichiers qui s'y
+rattachent. Ils sont tous fournis lorsque Unity compile une "build". Simplement double-cliquer sur ProjectX.exe et puis le jeu va démarrer.
+
+Utiliser Alt-F4 pour quitter.
