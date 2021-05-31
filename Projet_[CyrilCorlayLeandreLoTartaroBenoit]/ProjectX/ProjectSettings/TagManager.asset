@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HandgunBullet
+  - Zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objects
+  - Player
+  - Black
+  - Mask
+  - BehindMask
+  - Sandbag
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Grass
+    uniqueID: 1772424571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 780672443
+    locked: 0
+  - name: Top
+    uniqueID: 265326687
+    locked: 0
+  - name: Walls
+    uniqueID: 399600251
+    locked: 0
