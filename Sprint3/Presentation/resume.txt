@@ -8,4 +8,4 @@ Si vous préférez vous sauver plutôt que de tuer un "zombie", vous pouvez main
 personnage se mette à courir, plutôt que marcher. Vous ne pouvez pas courir indéfiniment parce que le jeu possède un système d'endurance 
 qui fait en sorte que vous êtes épuisé après quelques secondes de course. Vous devez vous reposer un peu pour pouvoir courir à nouveau.
 
-https://cvmqc-my.sharepoint.com/:v:/g/personal/e_ccorlay_etu_cvm_qc_ca/Ee99PAYxd1lItuv3zvr6ei0Bsx0WjRbXKHL5G80I4s7FdA?e=2pNYl2
+https://cvmqc-my.sharepoint.com/:v:/g/personal/e_ccorlay_etu_cvm_qc_ca/EY-aFo4XEtpCjgFp8ef1m_cBUxIRzPgPSHBDL6jSNGlrAQ?e=mC0p53
