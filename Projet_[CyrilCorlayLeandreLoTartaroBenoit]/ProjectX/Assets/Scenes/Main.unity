@@ -487,12 +487,12 @@ PrefabInstance:
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.51
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -43.43
+      value: -40.01
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
@@ -877,12 +877,12 @@ PrefabInstance:
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 34.19
+      value: -44.98
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -33.7
+      value: -39.06
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
@@ -1204,7 +1204,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   restartDelay: 3
   TotalZombiesKilled: 0
-  TotalZombies: 12
+  TotalZombies: 3
   VictoryUI: {fileID: 1344875392}
   DefeatedUI: {fileID: 263483102}
   player: {fileID: 1938190748}
@@ -1365,12 +1365,12 @@ PrefabInstance:
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.69
+      value: 32.45
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.8800006
+      value: -5.53
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
@@ -1593,12 +1593,12 @@ PrefabInstance:
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.14
+      value: 7.91
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21.06
+      value: -41.97
       objectReference: {fileID: 0}
     - target: {fileID: 5998938188455957160, guid: 0a1ddf23da88a5348b85a2b968e016cb,
         type: 3}
