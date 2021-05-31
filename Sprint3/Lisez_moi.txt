@@ -17,4 +17,9 @@ Utilisateur non technique
 Pour utiliser l'application, l'installation de Unity n'est pas nécessaire, il faut tout simplement un exécutable et les fichiers qui s'y
 rattachent. Ils sont tous fournis lorsque Unity compile une "build". Simplement double-cliquer sur ProjectX.exe et puis le jeu va démarrer.
 
+Pour contrôler le personnage, utiliser les touches WASD.
+Boutton de gauche de la souris pour tirer, boutton de droite pour viser.
+Appuyer sur 1 ou 2 pour changer d'arme.
+Garder la touche SHIFT renfoncée pour courrir.
+
 Utiliser Alt-F4 pour quitter.
